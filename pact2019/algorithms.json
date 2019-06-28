@@ -1,0 +1,27 @@
+[
+  {
+    "class": "pysimgrid.simdag.algorithms.HEFT",
+    "data-transfer-mode": "EAGER",
+    "name": "Eager"
+  },
+  {
+    "class": "pysimgrid.simdag.algorithms.HEFT",
+    "data-transfer-mode": "LAZY",
+    "name": "Lazy"
+  },
+  {
+    "class": "pysimgrid.simdag.algorithms.HEFT",
+    "data-transfer-mode": "PREFETCH",
+    "name": "Prefetch"
+  },
+  {
+    "class": "pysimgrid.simdag.algorithms.HEFT",
+    "data-transfer-mode": "QUEUE",
+    "name": "Queue"
+  },
+  {
+    "class": "pysimgrid.simdag.algorithms.HEFT",
+    "data-transfer-mode": "QUEUE_ECT",
+    "name": "QueueECT"
+  }
+]
